@@ -1,16 +1,13 @@
-### Hi there 👋
+# Avocado
+Say hello to Avocado, a hip, geometric site template.
 
-<!--
-**keshajoshi/keshajoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Papaya](https://www.papayatemplates.com)
+[@jrdnbwmn](https://www.twitter.com/jrdnbwmn)
 
-Here are some ideas to get you started:
+Demo images from [Unsplash](https://unsplash.com/).
+Icons from [Entypo](http://entypo.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Instructions
+For local development, run `npm install` on the main directory and then `gulp` to get BrowserSync going along with all the Gulp tasks (see [Pear](https://github.com/jrdnbwmn/Pear)).
+
+Development files are in `src`. Everything is compiled into `dist`—that’s where all your final files reside.
